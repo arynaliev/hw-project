@@ -1,14 +1,14 @@
 import "./App.css";
 import Header from "./components/header";
-import Footer from "./components/footer";
-import Navbar from "./components/navBar";
+import Main from "./components/main";
+import SubmitButton from "./components/submitButton";
 
 function App() {
   return (
     <div className="App">
-      <Navbar />
-      <Header />
-      <Footer />
+      <Header></Header>
+      <Main></Main>
+      <SubmitButton />
     </div>
   );
 }

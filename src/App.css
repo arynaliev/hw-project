@@ -1,7 +1,7 @@
 .App {
   width: 100%;
   height: 100vh;
-  background-image: linear-gradient(to right top, yellowgreen, green);
+  background-image: linear-gradient(to right top, red, blue);
   text-align: center;
   display: flex;
   flex-direction: column;
